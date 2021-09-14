@@ -10,3 +10,6 @@
 ## How it works
 * Express.js framework is used to run the server.
 * Dotenv is used to hide enviroment variables
+* There are two endpoints:
+** '/users' that returns information of all the users. 
+** '/users/<userid>' which returns the information of a specific user.
